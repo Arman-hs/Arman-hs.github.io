@@ -327,8 +327,8 @@ nav a:hover::before {
 }
 
 .first-content .author-image img {
-	margin-top: -80px;
-	border-radius: 10px;
+	border-radius: 30px;
+	margin-top: -50px;
 	max-width: 100%;
 	overflow: hidden;
 	float: left;
