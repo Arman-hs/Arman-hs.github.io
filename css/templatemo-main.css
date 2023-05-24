@@ -628,6 +628,7 @@ nav a:hover::before {
 .fifth-content .container-fluid {
 	padding-left: 0px;
 	padding-right: 0px;
+	padding-top: 25px;
 }
 
 .fifth-content .container-fluid .col-md-6 {
@@ -640,7 +641,7 @@ nav a:hover::before {
 }
 
 .fifth-content #contact {
-	padding: 50px 50px 50px 50px;
+	padding: 70px 50px 50px 50px;
 }
 
 .fifth-content input {
