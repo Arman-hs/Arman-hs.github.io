@@ -313,7 +313,10 @@ nav a:hover::before {
   width: 100%;
 }
 
-
+.aplus a:hover {
+	background-color: #fff;
+	color: #232323!important;
+}
 .main-btn a:hover {
 	background-color: #fff;
 	color: #232323!important;
