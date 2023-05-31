@@ -313,10 +313,7 @@ nav a:hover::before {
   width: 100%;
 }
 
-.aplus a:hover {
-	background-color: #fff;
-	color: #232323!important;
-}
+
 .main-btn a:hover {
 	background-color: #fff;
 	color: #232323!important;
@@ -530,7 +527,7 @@ nav a:hover::before {
 	margin-bottom: 20px;
 }
 
-.third-content .main-btn a {
+.third-content .fb-btn a {
 	display: inline-block;
 	border: 2px solid #fff;
 	padding: 8px 15px;
